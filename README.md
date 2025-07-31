@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm a Computer Science graduate with 7 years of experience in Automation interested in working on Artificial Intelligence, self-hosted software solutions and general automation. I enjoy working on backend technology and experimenting in self hosted environments.
+I'm a Computer Science graduate with 8 years of experience in Digital Transformation interested in working on Artificial Intelligence, self-hosted software solutions and general automation. I enjoy working on automation technologies and experimenting in self hosted environments.
 
 ### What I Do 🛠️
 

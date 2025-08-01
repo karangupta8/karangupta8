@@ -14,7 +14,7 @@ I mostly work on backed systems related to AI and language modelling, in langaua
 
 ### Homelab stack
 
-My current homelab stack runs on a threadripper pc with 3x3090s on arch linux. Core services include:
+My current homelab stack's Core services include:
 -
 
 
